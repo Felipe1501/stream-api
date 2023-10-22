@@ -1,6 +1,6 @@
 # iPhone Class Diagram
 
-![iPhone](iphone-apple.jpg)
+
 
 Welcome to the class diagram for the iPhone, which implements the `MusicPlayer`, `Phone`, and `Browser` interfaces. This diagram provides an overview of the attributes and methods of the `iPhone` class.
 
